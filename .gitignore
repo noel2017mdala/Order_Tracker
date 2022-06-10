@@ -1,0 +1,5 @@
+/Server/.env
+/Server/Config/firebaseConfig.js
+/Server/Config/serviceAccountKey.json
+/Server/node_modules
+/client/node_modules
